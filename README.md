@@ -38,15 +38,15 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/stonedada)
 [![Gitee](https://img.shields.io/badge/-Gitee-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/liu-shitou)
 ## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=duktig666&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=stonedada&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 <!-- <a href="https://github.com/duktig666">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duktig666&layout=compact&theme=vue" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stonedada&layout=compact&theme=vue" />
 </a>
 
-[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duktig666&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
+[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stonedada&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stonedada&theme=vue)](https://github.com/duktig666) -->
 
 ## :bar_chart: Monthly coding time
 
