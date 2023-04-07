@@ -38,6 +38,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=stonedada&color=green)
 [![Github](https://img.shields.io/github/followers/stonedada?label=Github&style=social)](https://github.com/stonedada)
 [![Gitee](https://img.shields.io/badge/-Gitee-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/liu-shitou)
+[![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_43913261?type=blog)
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=stonedada&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
