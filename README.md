@@ -27,7 +27,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 
 ## Follow Me
 <!--
-![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
+![访问个人主页数量](https://komarev.com/ghpvc/?username=stonedada&color=green)
 [![Blog](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/duktig666)
 [![Gitee](https://img.shields.io/badge/-Gitee-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/duktig666)
@@ -35,7 +35,8 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 [![jianshu](https://img.shields.io/badge/-jianshu-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/421632ec0dc8)
 [![Email](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ren_shi_wei@qq.com)](mailto:ren_shi_wei@qq.com)
 -->
-[![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/stonedada)
+![访问个人主页数量](https://komarev.com/ghpvc/?username=stonedada&color=green)
+[![Github](https://img.shields.io/github/followers/stonedada?label=Github&style=social)](https://github.com/stonedada)
 [![Gitee](https://img.shields.io/badge/-Gitee-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/liu-shitou)
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=stonedada&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
