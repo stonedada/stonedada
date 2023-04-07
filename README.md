@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi,I'm stone ! 👋
+# Hi,I'm Zhifeng Liu! 👋
 ML,DL,CV Algorithm Engineer in Postgraduate
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duktig666&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
@@ -35,6 +35,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 [![jianshu](https://img.shields.io/badge/-jianshu-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/421632ec0dc8)
 [![Email](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ren_shi_wei@qq.com)](mailto:ren_shi_wei@qq.com)
 -->
+[![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/stonedada)
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=duktig666&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
