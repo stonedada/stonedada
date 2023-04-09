@@ -42,13 +42,13 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=stonedada&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
-<!-- <a href="https://github.com/duktig666">
+<a href="https://github.com/stonedada">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stonedada&layout=compact&theme=vue" />
 </a>
 
-[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stonedada&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
+[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stonedada&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@stonedada)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stonedada&theme=vue)](https://github.com/duktig666) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stonedada&theme=vue)](https://github.com/stonedada)
 
 ## :bar_chart: Monthly coding time
 
