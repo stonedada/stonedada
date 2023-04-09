@@ -18,7 +18,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stonedada&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 My position is in **Beijing**, study in **BIPT AAI**.
-- 🌱 I’m currently learning **BlockChain** and **Web3**.
+- 🌱 I’m currently learning **Algorithm** and **Shell**.
 - 💬 Ask me about **DL,Medical Imaging,Compute Vision** technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
