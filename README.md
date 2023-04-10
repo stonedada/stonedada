@@ -54,8 +54,5 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 
 <!--START_SECTION:waka-->
 
-```text
-Other             48 hrs 31 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.02 %
-```
 
 <!--END_SECTION:waka-->
