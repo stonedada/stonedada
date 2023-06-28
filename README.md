@@ -46,7 +46,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,20 +89,19 @@ Sunday                   21 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 55 mins       █████████████████████████   99.99 % 
+Other                    6 hrs 40 mins       █████████████████████████   99.99 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 55 mins       █████████████████████████   99.99 % 
+Chrome                   6 hrs 40 mins       █████████████████████████   99.99 % 
 PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-STNet                    3 hrs 15 mins       ██████████████░░░░░░░░░░░   55.11 % 
-microDL                  2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
-ST-UNet                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+microDL                  5 hrs 4 mins        ███████████████████░░░░░░   75.86 % 
+STNet                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +119,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2023 18:42:20 UTC
+ Last Updated on 28/06/2023 18:42:10 UTC
 <!--END_SECTION:waka-->
