@@ -46,9 +46,9 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,16 +89,20 @@ Sunday                   21 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 14 mins      █████████████████████████   100.00 % 
+Other                    8 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 14 mins      █████████████████████████   100.00 % 
+Chrome                   8 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-reporter              10 hrs 14 mins      █████████████████████████   100.00 % 
+ai-reporter              7 hrs 58 mins       ████████████████████████░   95.40 % 
+wetoast                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+WeChatExtension-ForMac   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+WeChatSeptet-ForMac      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+rufus                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  10 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +120,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2023 18:38:59 UTC
+ Last Updated on 27/07/2023 18:38:57 UTC
 <!--END_SECTION:waka-->
