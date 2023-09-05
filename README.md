@@ -46,7 +46,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,20 +89,18 @@ Sunday                   21 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 40 mins       █████████████████████████   100.00 % 
+Other                    2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 40 mins       █████████████████████████   100.00 % 
+Chrome                   2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yolov5                   2 hrs 15 mins       ███████████████░░░░░░░░░░   61.39 % 
-yolov5-pytorch           1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   38.38 % 
-OpenBCI_Experiment       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-uvcgan2                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-yolov8-pytorch#%E6%80%A7%0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+yolov5                   2 hrs 12 mins       █████████████████████████   99.64 % 
+OpenBCI_Experiment       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+yolov5-pytorch           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +118,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2023 18:39:00 UTC
+ Last Updated on 05/09/2023 18:38:57 UTC
 <!--END_SECTION:waka-->
