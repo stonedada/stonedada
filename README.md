@@ -46,7 +46,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,16 +89,17 @@ Sunday                   21 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    44 mins             █████████████████████████   100.00 % 
+Other                    1 hr 18 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   44 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 18 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yolov5                   44 mins             █████████████████████████   100.00 % 
+yolov5                   46 mins             ███████████████░░░░░░░░░░   58.52 % 
+yolov5-pytorch           32 mins             ██████████░░░░░░░░░░░░░░░   41.48 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +117,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2023 18:39:07 UTC
+ Last Updated on 08/09/2023 18:39:10 UTC
 <!--END_SECTION:waka-->
