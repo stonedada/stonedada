@@ -46,15 +46,13 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 458.4 kB Used in GitHub's Storage 
- > 
-> 🏆 89 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,21 +87,18 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs               ███████████████████████░░   93.51 % 
-Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Other                    4 hrs 48 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   7 hrs               ███████████████████████░░   93.51 % 
-PyCharm                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Chrome                   4 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytorch-CycleGAN-and-pix25 hrs 4 mins        █████████████████░░░░░░░░   67.56 % 
-STNet                    2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
-micro-dl                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-DL                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+pytorch-CycleGAN-and-pix24 hrs 19 mins       ██████████████████████░░░   89.98 % 
+STNet                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+pytorch-loss-functions   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +115,5 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2023 18:38:56 UTC
+ Last Updated on 11/11/2023 18:38:48 UTC
 <!--END_SECTION:waka-->
