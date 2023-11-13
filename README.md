@@ -46,7 +46,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,17 +89,21 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 17 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 25 mins       ████████████████████████░   96.91 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 17 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 25 mins       ████████████████████████░   96.91 % 
+PyCharm                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🐱‍💻 Projects: 
-pytorch-CycleGAN-and-pix26 hrs 17 mins       █████████████████████████   100.00 % 
+pytorch-CycleGAN-and-pix26 hrs 16 mins       ████████████████████████░   94.53 % 
+DL                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+pix2pixGAN               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 pytorch-loss-functions   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +120,5 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2023 18:38:51 UTC
+ Last Updated on 13/11/2023 18:39:20 UTC
 <!--END_SECTION:waka-->
