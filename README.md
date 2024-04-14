@@ -46,8 +46,6 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -120,5 +118,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:38:34 UTC
+ Last Updated on 14/04/2024 22:58:03 UTC
 <!--END_SECTION:waka-->
