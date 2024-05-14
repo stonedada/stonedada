@@ -46,13 +46,15 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,19 +89,19 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 44 mins       █████████████████████████   100.00 % 
+Other                    11 hrs 39 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 44 mins       █████████████████████████   100.00 % 
+Chrome                   11 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-microDL                  9 hrs 33 mins       █████████████████████████   98.10 % 
-MA-GAN                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+microDL                  11 hrs 28 mins      █████████████████████████   98.41 % 
+MA-GAN                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ST-cGAN                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 PythonPark               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +118,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2024 18:38:40 UTC
+ Last Updated on 14/05/2024 18:39:55 UTC
 <!--END_SECTION:waka-->
