@@ -46,13 +46,15 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-934%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,16 +89,20 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 28 mins       █████████████████████████   100.00 % 
+Other                    4 hrs 58 mins       ████████████████████████░   97.38 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 28 mins       █████████████████████████   100.00 % 
+Chrome                   4 hrs 58 mins       ████████████████████████░   97.38 % 
+PyCharm                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-microDL                  4 hrs 28 mins       █████████████████████████   100.00 % 
+microDL                  4 hrs 47 mins       ███████████████████████░░   93.71 % 
+Pytorch                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+TA-GAN                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,5 +119,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:41:36 UTC
+ Last Updated on 14/06/2024 18:41:23 UTC
 <!--END_SECTION:waka-->
