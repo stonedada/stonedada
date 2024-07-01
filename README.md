@@ -54,8 +54,6 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -89,16 +87,16 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 48 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 55 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 48 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Pytorch                  4 hrs 48 mins       █████████████████████████   100.00 % 
+Pytorch                  3 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,5 +113,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:40:37 UTC
+ Last Updated on 01/07/2024 18:41:15 UTC
 <!--END_SECTION:waka-->
