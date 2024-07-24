@@ -46,15 +46,11 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,45 +58,6 @@ ML,DL,CV Algorithm Engineer in Postgraduate
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                33 commits          █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-🌆 Daytime                68 commits          ██████████░░░░░░░░░░░░░░░   41.46 % 
-🌃 Evening                61 commits          █████████░░░░░░░░░░░░░░░░   37.20 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Wednesday                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Friday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Sunday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   1 min               █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Pytorch                  1 min               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -115,5 +72,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:41:19 UTC
+ Last Updated on 24/07/2024 18:43:19 UTC
 <!--END_SECTION:waka-->
