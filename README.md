@@ -46,6 +46,8 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -58,6 +60,45 @@ ML,DL,CV Algorithm Engineer in Postgraduate
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                33 commits          █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+🌆 Daytime                68 commits          ██████████░░░░░░░░░░░░░░░   41.46 % 
+🌃 Evening                61 commits          █████████░░░░░░░░░░░░░░░░   37.20 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Wednesday                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Friday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Sunday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    52 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   52 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Pytorch                  52 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  52 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -72,5 +113,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:43:19 UTC
+ Last Updated on 25/07/2024 18:40:38 UTC
 <!--END_SECTION:waka-->
