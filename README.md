@@ -46,13 +46,15 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,19 +89,19 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    58 mins             █████████████████████████   100.00 % 
+Other                    1 hr 34 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   58 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Pytorch                  32 mins             ██████████████░░░░░░░░░░░   55.77 % 
-PythonPark               23 mins             ██████████░░░░░░░░░░░░░░░   40.05 % 
-verified-device          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-UTransformer             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+PythonPark               59 mins             ████████████████░░░░░░░░░   62.92 % 
+Pytorch                  32 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
+verified-device          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+UTransformer             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +118,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2024 18:42:35 UTC
+ Last Updated on 07/08/2024 18:42:05 UTC
 <!--END_SECTION:waka-->
