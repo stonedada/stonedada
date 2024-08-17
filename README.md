@@ -89,18 +89,16 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ST-cGAN                  2 hrs 7 mins        █████████████████████░░░░   85.89 % 
-ResUnet                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Pytorch                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -117,5 +115,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 18:42:01 UTC
+ Last Updated on 17/08/2024 18:40:46 UTC
 <!--END_SECTION:waka-->
