@@ -46,7 +46,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 ## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-978%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-978%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,16 +87,16 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Other                    23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   0 secs              █████████████████████████   100.00 % 
+Chrome                   23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ST-cGAN                  0 secs              █████████████████████████   100.00 % 
+ST-cGAN                  23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,5 +113,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stonedada/stonedada/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 18:43:09 UTC
+ Last Updated on 13/10/2024 18:43:42 UTC
 <!--END_SECTION:waka-->
