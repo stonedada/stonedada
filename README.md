@@ -48,14 +48,11 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Total Time: 42 mins
+Total Time: 0 secs
 
-Other        50 mins         █████████████▓░░░░░░░░░░░   54.18 %
-Markdown     23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-JavaScript   17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
