@@ -48,7 +48,7 @@ ML,DL,CV Algorithm Engineer in Postgraduate
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
 Total Time: 0 secs
 
