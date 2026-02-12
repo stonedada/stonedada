@@ -20,7 +20,7 @@ ML, DL, CV Algorithm Engineer in Postgraduate
   <img src="https://streak-stats.demolab.com/?user=stonedada&theme=vue" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stonedada&theme=flat&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=stonedada&theme=flat&column=7" alt="GitHub Trophies" />
 </p>
 
 ## Follow Me
