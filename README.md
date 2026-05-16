@@ -37,11 +37,11 @@ ML, DL, CV Algorithm Engineer in Postgraduate
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2026 - To: 15 May 2026
+From: 09 May 2026 - To: 16 May 2026
 
 Total Time: 0 secs
 
-Other   1 hr 1 min            █████████████████████████   100.00 %
+Other   1 hr 30 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
